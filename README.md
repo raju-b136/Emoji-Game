@@ -1,4 +1,4 @@
-### Website:(https://rajuemojigame1.ccbp.tech)
+### Website:https://rajuemojigame1.ccbp.tech
 In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
